@@ -1,2 +1,2 @@
-BOTNAME = "usernameofbot"
+BOTNAME = "SHIPPERINGRobot"
 TOKEN = "TOKEN"
